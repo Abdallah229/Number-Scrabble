@@ -1,4 +1,3 @@
-# File : CS112_A1_T2_2_20230231
 # Purpose : Number scrabble involves players picking numbers from a list of 1-9
 #           with the winner picking three numbers that add up to 15,
 #           and the game ends if all numbers are used
