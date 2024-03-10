@@ -2,7 +2,6 @@
 #           with the winner picking three numbers that add up to 15,
 #           and the game ends if all numbers are used
 # Author: Abdallah Mohammed Abdallah
-# ID: 20230231
 
 
 
